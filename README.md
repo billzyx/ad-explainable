@@ -1,4 +1,4 @@
-#Towards Interpretability of Speech Pause in Dementia Detection using Adversarial Learning
+# Towards Interpretability of Speech Pause in Dementia Detection using Adversarial Learning
 
 Code for the paper:
 
